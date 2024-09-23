@@ -1,5 +1,3 @@
-# Hector Sosa / 23-1243
-
 # Ciencia de Datos
 
 **Dataset de películas:** [Netflix Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
